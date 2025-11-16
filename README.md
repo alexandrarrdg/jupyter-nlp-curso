@@ -93,23 +93,23 @@ Proyecto integrador donde los estudiantes construyen su propio sistema completo 
 ### Opción 1: Google Colab (Recomendado)
 
 1. **Notebook 1 - Introducción**:
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[TU-USUARIO]/[TU-REPO]/blob/main/Introduccion_a_LLM.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandrarrdg/jupyter-nlp-curso/blob/main/Introduccion_a_LLM.ipynb)
 
 2. **Notebook 2 Parte 1 - Evolución**:
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[TU-USUARIO]/[TU-REPO]/blob/main/Evolucion_Modelos_Lenguaje.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandrarrdg/jupyter-nlp-curso/blob/main/Evolucion_Modelos_Lenguaje.ipynb)
 
 3. **Notebook 2 Parte 2 - Evolución (continuación)**:
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[TU-USUARIO]/[TU-REPO]/blob/main/Evolucion_Modelos_Lenguaje_Parte2.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandrarrdg/jupyter-nlp-curso/blob/main/Evolucion_Modelos_Lenguaje_Parte2.ipynb)
 
 4. **Notebook 3 - Desafío Final**:
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[TU-USUARIO]/[TU-REPO]/blob/main/Desafio_Final_NLP.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandrarrdg/jupyter-nlp-curso/blob/main/Desafio_Final_NLP.ipynb)
 
 ### Opción 2: Entorno Local
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/[TU-USUARIO]/[TU-REPO].git
-   cd [TU-REPO]
+   git clone https://github.com/alexandrarrdg/jupyter-nlp-curso.git
+   cd jupyter-nlp-curso
    ```
 
 2. **Instala las dependencias**:
@@ -217,8 +217,8 @@ Este material educativo está disponible bajo la licencia MIT. Puedes usar, modi
 
 Para preguntas, sugerencias o reportar problemas:
 
-- Abre un [Issue](https://github.com/[TU-USUARIO]/[TU-REPO]/issues)
-- Discusiones en [Discussions](https://github.com/[TU-USUARIO]/[TU-REPO]/discussions)
+- Abre un [Issue](https://github.com/alexandrarrdg/jupyter-nlp-curso/issues)
+- Discusiones en [Discussions](https://github.com/alexandrarrdg/jupyter-nlp-curso/discussions)
 
 ---
 
