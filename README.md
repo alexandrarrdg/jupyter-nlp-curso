@@ -2,38 +2,15 @@
 
 ## 📚 Descripción del Curso
 
-Este repositorio contiene un curso universitario completo sobre **Procesamiento de Lenguaje Natural (NLP)** y **Modelos de Lenguaje de Gran Escala (LLMs)**, diseñado para estudiantes sin experiencia previa en el área.
-
-El curso está organizado en **tres Jupyter Notebooks interactivos** en español, 100% ejecutables en Google Colab, que cubren desde conceptos fundamentales hasta la implementación de sistemas avanzados con inteligencia artificial.
+Este repositorio contiene un curso  sobre **Procesamiento de Lenguaje Natural (NLP)** y **Modelos de Lenguaje de Gran Escala (LLMs)**.
 
 ---
 
 ## 📖 Contenido del Curso
 
-### 📓 Notebook 1: Introducción a LLMs
-**Archivo**: `Introduccion_a_LLM.ipynb`
-
-Curso introductorio diseñado para estudiantes sin experiencia previa en NLP.
-
-**Temas cubiertos**:
-- ¿Qué son los LLMs y cómo funcionan?
-- Tokenización y procesamiento de texto
-- Embeddings y representaciones vectoriales
-- Similitud semántica
-- Clasificación de texto con transformers
-- Generación de texto
-- Modelos multilingües
-- Fine-tuning básico
-- Ética y sesgos en IA
-- Aplicaciones prácticas
-
-**Nivel**: Principiante
-**Duración estimada**: 3-4 horas
-**Ejercicios**: 10 ejercicios prácticos
-
 ---
 
-### 📘 Notebook 2: Evolución de los Modelos de Lenguaje
+### 📘 Notebook 1: Evolución de los Modelos de Lenguaje
 **Archivos**:
 - `Evolucion_Modelos_Lenguaje.ipynb` (Parte 1)
 - `Evolucion_Modelos_Lenguaje_Parte2.ipynb` (Parte 2)
@@ -62,10 +39,10 @@ Curso universitario profundo sobre la evolución histórica y técnica del NLP.
 
 ---
 
-### 🎯 Notebook 3: Desafío Final
+### 🎯 Notebook 2: Desafío Final
 **Archivo**: `Desafio_Final_NLP.ipynb`
 
-Proyecto integrador donde los estudiantes construyen su propio sistema completo de NLP.
+Proyecto integrador donde los estudiantes construyen su propio sistema  de NLP.
 
 **Componentes del proyecto**:
 1. **NLP Clásico**: Preprocesamiento y análisis (15%)
@@ -92,16 +69,13 @@ Proyecto integrador donde los estudiantes construyen su propio sistema completo 
 
 ### Opción 1: Google Colab (Recomendado)
 
-1. **Notebook 1 - Introducción**:
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandrarrdg/jupyter-nlp-curso/blob/main/Introduccion_a_LLM.ipynb)
-
-2. **Notebook 2 Parte 1 - Evolución**:
+1. **Notebook 1 Parte 1 - Evolución**:
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandrarrdg/jupyter-nlp-curso/blob/main/Evolucion_Modelos_Lenguaje.ipynb)
 
-3. **Notebook 2 Parte 2 - Evolución (continuación)**:
+2. **Notebook 2 Parte 2 - Evolución (continuación)**:
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandrarrdg/jupyter-nlp-curso/blob/main/Evolucion_Modelos_Lenguaje_Parte2.ipynb)
 
-4. **Notebook 3 - Desafío Final**:
+3. **Notebook 3 - Desafío Final**:
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexandrarrdg/jupyter-nlp-curso/blob/main/Desafio_Final_NLP.ipynb)
 
 ### Opción 2: Entorno Local
@@ -177,24 +151,6 @@ Cada notebook sigue una estructura pedagógica consistente:
 
 ---
 
-## 🎓 Para Instructores
-
-Este material es ideal para:
-
-- Cursos universitarios de NLP/IA
-- Bootcamps de Data Science
-- Talleres corporativos de ML
-- Autoaprendizaje estructurado
-
-**Características pedagógicas**:
-- Progresión gradual de dificultad
-- Ejemplos en español
-- Ejercicios con soluciones guiadas
-- Casos de uso del mundo real
-- Evaluación con rúbricas claras
-
----
-
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Para contribuir:
@@ -246,44 +202,12 @@ Para preguntas, sugerencias o reportar problemas:
 
 ---
 
-## 📈 Roadmap del Curso
-
 ### Versión Actual: 1.0
 - ✅ 3 notebooks completos
 - ✅ 54 ejercicios prácticos totales
 - ✅ Contenido en español
 - ✅ Compatible con Google Colab
 
-### Futuras Mejoras
-- [ ] Videos explicativos complementarios
-- [ ] Datasets de ejemplo pre-cargados
-- [ ] Notebooks en inglés
-- [ ] Módulo sobre LLMs locales (Llama, Mistral)
-- [ ] Sección de optimización (LoRA, Quantization)
-- [ ] Casos de estudio empresariales
-
----
-
-## 🙏 Agradecimientos
-
-Este curso fue desarrollado con el objetivo de democratizar el acceso al conocimiento sobre NLP y LLMs. Agradecimientos especiales a:
-
-- La comunidad de Hugging Face por sus increíbles herramientas
-- Los contribuidores de bibliotecas open source
-- Los estudiantes que ayudaron a mejorar el contenido
-
----
-
-## ⭐ Si te gusta este curso
-
-Si este material te resulta útil:
-
-- Dale una ⭐ al repositorio
-- Compártelo con otros estudiantes
-- Contribuye con mejoras
-- Proporciona feedback
-
----
 
 **¡Feliz aprendizaje! 🚀🤖📚**
 
